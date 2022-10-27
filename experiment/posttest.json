@@ -2,38 +2,30 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The tensile strength of consrete after 7 days is ________ as compared to that of after 3 days.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Less",
+        "b": "More",
+        "c": "Equal",
+        "d": "Can't say"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "With increasing age of specimen, its tensile strength-",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+        "a": "Increases",
+        "b": "decreases",
+        "c": "Remain Same",
+        "d": "Can't Say"
+       },
+      
+      "correctAnswer": "aS",
       "difficulty": "beginner"
     }
+
+
   ]
 }
