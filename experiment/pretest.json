@@ -2,38 +2,79 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which of the following apparatus is used to determine tensile strength hydraulic cement mortar?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Compression Testing Machine",
+        "b": "Ultimate Testing Machine",
+        "c": "LE CHATLIER Apparatus",
+        "d": "VICAT Apparatus"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the sand to cement ration to prepare standard mortar?",
+      "answers": {
+        "a": "6:5",
+        "b": "4:1",
+        "c": "2:1",
+        "d": "3:1"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the percentage(by weight) of water to be added to mortar mix?",
+      "answers": {
+        "a": "12%",
+        "b": "9%",
+        "c": "10%",
+        "d": "8%"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the number of the specimen to be tested at the time of the test?",
+      "answers": {
+        "a": "3",
+        "b": "4",
+        "c": "2",
+        "d": "1"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "5. What is the rate of loading applied on specimen in KN /sec?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4",
+        "b": "2.33",
+        "c": "3.5",
+        "d": "4.6"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6. How to calculate the Tensil strength of the specimen?",
+      "answers": {
+        "a": "peak strain / cross-sectional area",
+        "b": "peak load / cross-sectional area",
+        "c": "peak stress / cross-sectional area",
+        "d": "volume / cross-sectional area"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
+
+    
+
   ]
 }
