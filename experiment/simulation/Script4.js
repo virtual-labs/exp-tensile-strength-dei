@@ -52,7 +52,7 @@ function tunnu()
         document.getElementById("numoutnext").innerHTML = "";
         document.getElementById("gif2").style.display="inline";
         document.getElementById("numpadbig").style.display="none";
-        
+        myTimeout3 = setTimeout(myGreeting3, 9000);
     }
     
     else 
@@ -71,6 +71,17 @@ function myGreeting()
   
   function myStopFunction() {
     clearTimeout(myTimeout);
+
+  
+}
+function myGreeting3()
+     {
+    document.getElementById("next").style.visibility="visible";
+    myStopFunction3();
+  }
+  
+  function myStopFunction3() {
+    clearTimeout(myTimeout3);
 
   
 }

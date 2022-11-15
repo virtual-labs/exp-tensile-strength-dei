@@ -61,7 +61,7 @@ document.getElementById("play").onclick=function()
     document.getElementById("gif4").style.display="inline";
     document.getElementById("gif5").style.display="none";
     document.getElementById("gif6").style.display="none";
-
+    myTimeout2 = setTimeout(myGreeting2, 7000);
   }
 
 
@@ -84,11 +84,21 @@ document.getElementById("play").onclick=function()
 function myGreeting1()
      {
     document.getElementById("gif6").style.display="inline";
-    myStopFunction();
+    myStopFunction1();
   }
   
-  function myStopFunctionn() {
+  function myStopFunction1() {
     clearTimeout(myTimeout1);
+
+  }
+  function myGreeting2()
+     {
+    document.getElementById("next").style.visibility="visible";
+    myStopFunction2();
+  }
+  
+  function myStopFunction2() {
+    clearTimeout(myTimeout2);
 
   }
 

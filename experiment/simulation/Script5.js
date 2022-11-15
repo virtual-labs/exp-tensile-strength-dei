@@ -20,7 +20,7 @@ document.getElementById("play1").onclick=function()
     document.getElementById("gif").style.display="none";
     document.getElementById("arr1").style.display="none";
     document.getElementById("play1").style.display="none";
-    
+    myTimeout4 = setTimeout(myGreeting4, 9000);
 }
 
 function myGreeting()
@@ -31,6 +31,17 @@ function myGreeting()
   
   function myStopFunction() {
     clearTimeout(myTimeout);
+
+  
+}
+function myGreeting4()
+     {
+    document.getElementById("next").style.visibility="visible";
+    myStopFunction4();
+  }
+  
+  function myStopFunction4() {
+    clearTimeout(myTimeout4);
 
   
 }
