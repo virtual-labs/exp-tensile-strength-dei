@@ -4,11 +4,11 @@
 <b>Discipline | <b>Civil Engineering
 :--|:--|
 <b> Lab | <b> Concrete Technology Lab
-<b> Experiment|     <b> Tensile Strength
+<b> Experiment|     <b> Tensile Strength of Hydraulic Cement Mortar
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The main aim of tensile test is to determine properties of material like modulus of elasticity, yield strength, ultimate tensile strength, elongation till fracture and reduction in area of specimen after it has been deformed.
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
