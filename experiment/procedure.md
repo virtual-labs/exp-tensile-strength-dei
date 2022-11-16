@@ -19,9 +19,9 @@ Test Age	Permissible Tolerance
 28 days        	   ±12 h
 
 Till that time specimens are remained in storage water tank.
-2.	Before testing the specimen, wipe each briquet to a surface-dry condition, and remove any loose sand grains or incrustations from the surfaces
-3.	Place the specimen carefullyaligning  it along clips and start testing machine to apply load continuously at the rate of 3.5KN/min.
-4.	Record the total maximum load at which briquette failed
+2.	Before testing the specimen, wipe each briquet to a surface-dry condition, and remove any loose sand grains or incrustations from the surfaces.
+3.	Place the specimen carefully aligning it along clips and start testing machine to apply load continuously at the rate of 3.5KN/min.
+4.	Record the total maximum load at which briquette failed.
 
 ##### OBSERVATION
 1. 	The average of results will be taken as tensile strength of that batch except for that result which differs by more than 15% of the average value.
