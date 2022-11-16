@@ -2,6 +2,8 @@ function movecube() {
     document.getElementById("png2").style.animationPlayState = "running";
     document.getElementById("png2").style.animationIterationCount = "1";
     document.getElementById("gif1").style.visibility = "hidden";
+    document.getElementById("gif2").style.visibility = "visible";
+    document.getElementById("transp").style.visibility = "visible";
 }
 
 function movecubea() {
@@ -28,8 +30,10 @@ function movearm() {
 function movearmdo(){
     document.getElementById("png8").style.animationPlayState = "running";
     document.getElementById("png8").style.animationIterationCount = "1";
-    document.getElementById("png7").style.animationPlayState = "running";
-    document.getElementById("png7").style.animationIterationCount = "1";
+    // document.getElementById("png7").style.animationPlayState = "running";
+    // document.getElementById("png7").style.animationIterationCount = "1";
+    myTimeout1 = setTimeout(myGreeting1, 1000);
+
 }
 
 document.getElementById("transp1").onclick=function()
@@ -39,7 +43,7 @@ document.getElementById("transp1").onclick=function()
 
 
 document.getElementById("transp").onclick=function()
-{
+{   document.getElementById("gif2").style.visibility = "hidden";
     document.getElementById("numpadbig").style.visibility="visible";
     // document.getElementById("gif4").style.display="none";
 }
@@ -57,8 +61,8 @@ function tunnu()
     {
         document.getElementById("numoutnext").innerHTML = "";
         mycubehide();
-        document.getElementById("png7").style.visibility = "visible";
-        document.getElementById("png4").style.visibility = "visible";
+        // document.getElementById("png7").style.visibility = "visible";
+        // document.getElementById("png4").style.visibility = "visible";
         document.getElementById("png2").style.visibility = "hidden";
         document.getElementById("png8").style.visibility = "visible";
         document.getElementById("png6").style.visibility = "visible";
@@ -93,6 +97,18 @@ function myStopFunction() {
     clearTimeout(myTimeout);
 
 }
+function myGreeting1() {
+    document.getElementById("comp1").style.visibility = "visible";
+    document.getElementById("next1").style.visibility = "visible";
+   
+
+    myStopFunction();
+}
+
+function myStopFunction() {
+    clearTimeout(myTimeout1);
+
+}
 
 function mycubehide() {
     movecubenew();
@@ -105,8 +121,8 @@ function myStopFunction() {
 
 }
 function movecubenew(){debugger;
-    document.getElementById("png7").style.animationPlayState = "running";
-    document.getElementById("png7").style.animationIterationCount = "1";
+    // document.getElementById("png7").style.animationPlayState = "running";
+    // document.getElementById("png7").style.animationIterationCount = "1";
     document.getElementById("png5").style.visibility = "hidden";
 
 

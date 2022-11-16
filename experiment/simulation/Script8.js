@@ -47,9 +47,7 @@ document.getElementById("play3").onclick=function()
     document.getElementById("gif2").style.display="inline";
     document.getElementById("arr2").style.display="none";
     document.getElementById("play3").style.display="none";
-    
-
-    
+    myTimeout2 = setTimeout(myGreeting2, 8000);    
 }
 function myGreeting()
      {
@@ -71,6 +69,17 @@ function myGreeting1()
   
   function myStopFunction() {
     clearTimeout(myTimeout);
+
+  
+}
+function myGreeting2()
+     {
+    document.getElementById("next").style.visibility="visible";
+    myStopFunction2();
+  }
+  
+  function myStopFunction2() {
+    clearTimeout(myTimeout2);
 
   
 }

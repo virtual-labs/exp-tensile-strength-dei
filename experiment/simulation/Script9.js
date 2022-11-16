@@ -122,7 +122,7 @@ function myGreetinga() {
     document.getElementById("png6").style.visibility = "visible";
     document.getElementById("png7").style.visibility = "visible";
     document.getElementById("png8").style.visibility = "visible";
-
+    document.getElementById("next").style.visibility = "visible";
     myStopFunction();
 }
 
