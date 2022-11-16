@@ -4,7 +4,7 @@
 <b>Discipline | <b>Civil Engineering
 :--|:--|
 <b> Lab | <b> Concrete Technology Lab
-<b> Experiment|     <b> Tensile Strength of Hydraulic Cement Mortar
+<b> Experiment|     <b> 1. Tensile Strength of Hydraulic Cement Mortar
 
 ### About the Experiment 
 
