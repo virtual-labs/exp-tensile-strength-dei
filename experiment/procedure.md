@@ -1,6 +1,7 @@
 ### Procedure
 ##### 1. PREPARATION OF SPECIMEN
-1. 	The dry material is prepared by mixing cement and sand in 1:3 ratio respectively by weight. 
+
+1.  The dry material is prepared by mixing cement and sand in 1:3 ratio respectively by weight.
 2.	Water is to be added in certain percentage of weight of dry material to prepare cement mix. The percentage of water to be added is 10% for our test.
 3.	For moulding, the briquette mould must be placed on bottom plate
 4.	Then thin layer of oil must be applied to the mould before filling it by mortar mix.
@@ -24,6 +25,6 @@ Till that time specimens are remained in storage water tank.
 4.	Record the total maximum load at which briquette failed.
 
 ##### OBSERVATION
-1. 	The average of results will be taken as tensile strength of that batch except for that result which differs by more than 15% of the average value.
-2. 	Area of cross-section of briquette = 1inch2
-3. 	Tensile Strength = Fractured Load/cross-section area
+1. The average of results will be taken as tensile strength of that batch except for that result which differs by more than 15% of the average  value.
+2. Area of cross-section of briquette = 1inch <sup>2</sup>
+3. Tensile strength = Fractured Load / Cross-Section area.
