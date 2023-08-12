@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The tensile strength of consrete after 7 days is ________ as compared to that of after 3 days.",
+      "question": "The tensile strength of concrete after 7 days is ________ as compared to that of after 3 days.",
       "answers": {
         "a": "Less",
         "b": "More",

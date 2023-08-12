@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. What is the sand to cement ration to prepare standard mortar?",
+      "question": "2. What is the sand to cement ratio to prepare standard mortar?",
       "answers": {
         "a": "6:5",
         "b": "4:1",
@@ -62,7 +62,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6. How to calculate the Tensil strength of the specimen?",
+      "question": "6. How to calculate the Tensile strength of the specimen?",
       "answers": {
         "a": "peak strain / cross-sectional area",
         "b": "peak load / cross-sectional area",
