@@ -82,7 +82,7 @@ body {
 
 	width:800px;
 
-	border:solid 1px;
+	/* border:solid 1px; */
 
 	background-color: #dce5ec;
 }
@@ -101,7 +101,7 @@ body {
 
 	width:800px;
 
-	border:solid 1px;
+	/* border:solid 1px; */
 
 	background-color: #dce5ec;
 }
@@ -121,7 +121,7 @@ body {
 
 	text-align:center;
 
-	background-color: #ff0022;
+  background-color: rgb(20, 117, 228);
 
 	font-family: verdana;
 
@@ -172,7 +172,7 @@ h1 {
 }
 
 .topnav {
-    background-color: #333;
+    background-color: #dce5ec;
     overflow: hidden;
 }
 
@@ -194,7 +194,7 @@ h1 {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: black;
+    background-color: #dce5ec;
     color: white;
 }
 

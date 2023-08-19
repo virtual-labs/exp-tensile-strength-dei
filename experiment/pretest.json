@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. What is the rate of loading applied on specimen in KN /sec?",
+      "question": "5. What is the rate of loading applied on specimen in kN /sec?",
       "answers": {
         "a": "4",
         "b": "2.33",
