@@ -9,7 +9,6 @@
         "c": "LE CHATLIER Apparatus",
         "d": "VICAT Apparatus"
       },
-      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -21,7 +20,6 @@
         "c": "2:1",
         "d": "3:1"
       },
-      
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -33,7 +31,6 @@
         "c": "10%",
         "d": "8%"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -45,7 +42,6 @@
         "c": "2",
         "d": "1"
       },
-      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -57,7 +53,6 @@
         "c": "3.5",
         "d": "4.6"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -69,12 +64,8 @@
         "c": "peak stress / cross-sectional area",
         "d": "volume / cross-sectional area"
       },
-      
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
-
-    
-
   ]
 }

@@ -4,7 +4,7 @@
 <b>Discipline | <b>Civil Engineering
 :--|:--|
 <b> Lab | <b> Concrete Technology Lab
-<b> Experiment|     <b> 1. Tensile Strength of Hydraulic Cement Mortar
+<b> Experiment|     <b> Tensile Strength of Hydraulic Cement Mortar
 
 ### About the Experiment 
 
@@ -20,5 +20,6 @@ The main aim of tensile test is to determine properties of material like modulus
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Prateek Dubey | Student | Electrical Engineering | Dayalbagh Educational institute  | prateek191226@dei.ac.in
-2 | Sarth Gupta |Student | Civil Engineering | Dayalbagh Educational institute  | sarth191161@dei.ac.in
+1 | Prateek Dubey | Student | Electrical Engineering | Dayalbagh Educational Institute  | prateek191226@dei.ac.in
+2 | Sarth Gupta | Student | Civil Engineering | Dayalbagh Educational Institute  | sarth191161@dei.ac.in
+2 | Shyamendra Singh | Student | Agricultural Engineering | Dayalbagh Educational Institute  | shyamendra.me@gmail.com
