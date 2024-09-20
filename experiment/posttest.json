@@ -9,7 +9,6 @@
         "c": "Equal",
         "d": "Can't say"
       },
-      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -21,11 +20,8 @@
         "c": "Remain Same",
         "d": "Can't Say"
        },
-      
       "correctAnswer": "aS",
       "difficulty": "beginner"
     }
-
-
   ]
 }
