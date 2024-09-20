@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which of the following apparatus is used to determine tensile strength hydraulic cement mortar?",
+      "answers": {
+        "a": "Compression Testing Machine",
+        "b": "Ultimate Testing Machine",
+        "c": "LE CHATLIER Apparatus",
+        "d": "VICAT Apparatus"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the sand to cement ratio to prepare standard mortar?",
+      "answers": {
+        "a": "6:5",
+        "b": "4:1",
+        "c": "2:1",
+        "d": "3:1"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the percentage(by weight) of water to be added to mortar mix?",
+      "answers": {
+        "a": "12%",
+        "b": "9%",
+        "c": "10%",
+        "d": "8%"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the number of the specimen to be tested at the time of the test?",
+      "answers": {
+        "a": "3",
+        "b": "4",
+        "c": "2",
+        "d": "1"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the rate of loading applied on specimen in kN /sec?",
+      "answers": {
+        "a": "4",
+        "b": "2.33",
+        "c": "3.5",
+        "d": "4.6"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "How to calculate the Tensile strength of the specimen?",
+      "answers": {
+        "a": "peak strain / cross-sectional area",
+        "b": "peak load / cross-sectional area",
+        "c": "peak stress / cross-sectional area",
+        "d": "volume / cross-sectional area"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
