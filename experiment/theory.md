@@ -1,3 +1,13 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+
 ## Introduction
 
 **Tensile strength** is the ability of a cement mortar or hardened cementitious material to resist cracking or failure when subjected to tension. Although concrete and cement-based materials are primarily designed to withstand compressive loads, their tensile strength plays an important role in evaluating material cohesion, crack resistance, and overall structural performance. 
@@ -21,14 +31,13 @@ In a tensile strength test, a standardized mortar **briquette specimen** is subj
 
 Based on the applied load at failure, the **ultimate tensile stress** is calculated using the equation:
 
-```
-σt = Pmax / A
-```
+$$\sigma_t = \frac{P_{\max}}{A}$$
 
 **Where:**
-- **σt** = Tensile strength (MPa or N/mm²)
-- **Pmax** = Maximum load at failure (N)
-- **A** = Minimum cross-sectional area of briquette specimen (mm²)
+**Where:**
+- **$\sigma_t$** = Tensile strength (MPa or N/mm²)
+- **$P_{\max}$** = Maximum load at failure (N)
+- **$A$** = Minimum cross-sectional area of briquette specimen (mm²)
 
 ### Objectives and Significance
 
