@@ -24,5 +24,4 @@ document.getElementById("gif4").onclick=function()
     document.getElementById("gif").style.display="none";
     document.getElementById("gif4").style.display="none";
     
-
 }

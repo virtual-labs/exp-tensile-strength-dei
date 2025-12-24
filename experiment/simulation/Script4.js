@@ -55,11 +55,17 @@ function tunnu()
         myTimeout3 = setTimeout(myGreeting3, 9000);
     }
     
-    else 
-    {
-     document.getElementById("numoutnext").innerHTML = "Incorrect<br>Enter Correct Value:<br><br>is 120gm for speciman";
+    
+     else {
+  document.getElementById("numoutnext").innerHTML = "Incorrect<br>Enter Correct Value:<br><br>120gm for specimen";
+  document.getElementById("numoutnext").style.display = "block"; // show the message
+
+  setTimeout(function() {
+    document.getElementById("numoutnext").style.display = "none"; // hide after 4 seconds
+  }, 2000);
+}
         
-    }
+    
 
 }
 
