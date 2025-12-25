@@ -8,7 +8,7 @@
 /* MOBILE */
 @media (max-width: 575px) {
   .simulation-container {
-    zoom: 40%;
+    zoom: 30%;
     width: 800px;
     height: 600px;
   }
