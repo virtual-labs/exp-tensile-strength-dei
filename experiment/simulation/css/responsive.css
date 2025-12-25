@@ -3,12 +3,18 @@
    RESPONSIVE SCALING — STEP 2 FINAL
    ================================ */
 
-
+.sim-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  overflow: hidden;
+}
 
 /* MOBILE */
 @media (max-width: 575px) {
   .simulation-container {
-    zoom: 30%;
+    zoom: 40%;
     width: 800px;
     height: 600px;
   }
