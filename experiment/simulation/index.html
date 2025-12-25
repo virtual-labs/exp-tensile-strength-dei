@@ -1,63 +1,110 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/Loading.css">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap" rel="stylesheet">
-    <link rel="icon" href="favicon.ico">
-    <title>Virtual Labs</title>
-  </head>
-  <body>
 
-  <body style="margin:0; font-family: verdana; color: #000;">
-    <body style="margin: 0; font-family: Arial; color: #000">
+<head>
+  <meta charset="utf-8">
+
+  <!-- CSS Files -->
+  <link rel="stylesheet" href="css/responsive.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/Loading.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico">
+
+  <title>Virtual Labs</title>
+</head>
+
+<body style="margin:0; font-family: Arial, Verdana, sans-serif; color:#000;">
+
   <!-- Wrapper for responsiveness -->
   <div class="sim-wrapper">
 
     <table align="center">
-        <tr>
-            <td>
-              <div id="simscreen">
-                <div id="title"><h3>Tensile Strength test of Cement Mortar</h3></div>
-                <div class="middle-container" id="canvas1" >
-                  
-                 <strong class="incanvas" style="position: absolute; top: 20px; left: 0px;">STEP</strong>
-      
-                  <span class="circlebg" style="position: absolute; top: 27px; left: 55px;">&nbsp;1&nbsp;</span></br>
-      
-                  <p class="incanvas" style="position: absolute; top: 55px; left: 0px;font-size:15px;"><strong>Objective:</strong></p>
-      
-                  <p class="incanvas" style="position: absolute; top: 85px; left: 0px;font-size:14px;">Standard Test Method for Tensile Strength of Hydraulic
+      <tr>
+        <td>
 
-                    Cement Mortars</p></br>
-      
-                  <p class="incanvas" style="position: absolute; top: 115px; left: 0px;font-size:15px;"><strong>Apparatus used:</strong></p>
-      
-                  <p class="incanvas" style="position: absolute; top: 145px; left: 0px;font-size:14px;">Testing machine</p></br>
-                  <img id ="png" class="board" src="images/png.png" alt="picture" width="550" height="350"  style="padding-left: 4% ; margin-top: 140px;"><br>
-                  <input type="button" id="next" style="position:absolute; left:662px; top:498px; cursor:pointer; font-size: 15px; background-color: #2150a0; padding-top: 5px; color: #FFF; padding-bottom: 5px" value="&nbsp;Start Here&nbsp;" onclick="parent.location='Step1.html'"/>
-      
-              </div>
-      <!----------------------
-                  <img style="position:absolute; left:730px; top:480px; cursor:pointer;" id="nextButton1" onClick="navNext1()" src="Next.png" />
-      ---------------------->
+          <div id="simscreen">
 
-              
-   
-    </div>
-    
-    </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    
+            <div id="title">
+              <h3>Tensile Strength Test of Cement Mortar</h3>
+            </div>
 
-  </body>
-  
+            <div class="middle-container" id="canvas1">
+
+              <strong class="incanvas" style="position:absolute; top:20px; left:0px;">
+                STEP
+              </strong>
+
+              <span class="circlebg" style="position:absolute; top:27px; left:55px;">
+                &nbsp;1&nbsp;
+              </span>
+              <br>
+
+              <p class="incanvas" style="position:absolute; top:55px; left:0px; font-size:15px;">
+                <strong>Objective:</strong>
+              </p>
+
+              <p class="incanvas" style="position:absolute; top:85px; left:0px; font-size:14px;">
+                Standard Test Method for Tensile Strength of Hydraulic Cement Mortars
+              </p>
+              <br>
+
+              <p class="incanvas" style="position:absolute; top:115px; left:0px; font-size:15px;">
+                <strong>Apparatus used:</strong>
+              </p>
+
+              <p class="incanvas" style="position:absolute; top:145px; left:0px; font-size:14px;">
+                Testing machine
+              </p>
+              <br>
+
+              <img
+                id="png"
+                class="board"
+                src="images/png.png"
+                alt="Testing Machine"
+                width="550"
+                height="350"
+                style="padding-left:4%; margin-top:140px;"
+              >
+              <br>
+
+              <input
+                type="button"
+                id="next"
+                value=" Start Here "
+                onclick="parent.location='Step1.html'"
+                style="
+                  position:absolute;
+                  left:662px;
+                  top:498px;
+                  cursor:pointer;
+                  font-size:15px;
+                  background-color:#2150a0;
+                  color:#fff;
+                  padding:5px 10px;
+                  border:none;
+                "
+              >
+
+            </div>
+
+          </div>
+
+        </td>
+      </tr>
+    </table>
+
+  </div>
+
+  <br><br><br><br>
+
+  <!-- JavaScript -->
   <script src="script.js"></script>
+
+</body>
 </html>
-
-
