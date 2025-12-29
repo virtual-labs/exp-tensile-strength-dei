@@ -1,3 +1,17 @@
+document.addEventListener('DOMContentLoaded', function() {
+    // Get the start button element
+    const startButton = document.getElementById('nextToStep1');
+    
+    // Add click event listener to the start button
+    if (startButton) {
+        startButton.addEventListener('click', function() {
+            // Navigate to the first step of the experiment
+            window.location.href = 'Step1.html';
+            
+        });
+    }
+});
+
 document.getElementById("gif").style.display="none";
 
 document.getElementById("gif3").style.display="none";
