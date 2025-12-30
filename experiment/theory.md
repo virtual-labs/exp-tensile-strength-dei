@@ -57,7 +57,7 @@ This test provides valuable insight into mechanical properties and fracture char
   - Tile adhesives
   - Prestressed or composite constructions
 
-## APPARATUS
+### APPARATUS
 
 1. Weighing Devices
 2. Glass Graduates
