@@ -34,7 +34,6 @@ Based on the applied load at failure, the **ultimate tensile stress** is calcula
 $$\sigma_t = \frac{P_{\max}}{A}$$
 
 **Where:**
-**Where:**
 - **$\sigma_t$** = Tensile strength (MPa or N/mm²)
 - **$P_{\max}$** = Maximum load at failure (N)
 - **$A$** = Minimum cross-sectional area of briquette specimen (mm²)
