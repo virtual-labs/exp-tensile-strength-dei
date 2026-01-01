@@ -1,50 +1,108 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 
 <head>
+  <meta charset="utf-8">
 
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
-    rel="stylesheet" />
-  <link rel="icon" href="images/favicon.ico" />
-  <link rel="stylesheet" href="css/header.css" />
+  <!-- CSS Files -->
   <link rel="stylesheet" href="css/responsive.css">
-  <link rel="stylesheet" href="css/main-content.css" />
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/Loading.css">
 
-  <script src="js/main.js" defer></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico">
+
   <title>Virtual Labs</title>
 </head>
 
-<body>
+<body style="margin:0; font-family: Arial, Verdana, sans-serif; color:#000;">
 
-  <main>
-    <div class="simulation-container">
+  <!-- Wrapper for responsiveness -->
+  <div class="sim-wrapper">
 
-      <h2 class="title">Tensile Strength test of Cement Mortar</h2>
+    <table align="center">
+      <tr>
+        <td>
 
+          <div id="simscreen">
 
-      <!-- mainStep  -->
+            <div id="title">
+              <h3>Tensile Strength Test of Cement Mortar</h3>
+            </div>
 
-      <div class="content-container" id="mainStep" style="visibility: visible;">
-        <h3 class="instruction-main" style>Objective:</h3>
+            <div class="middle-container" id="canvas1">
 
-        <p class="content-main" id="content"> To determine the tensile strength of standard cement mortar briquettes</p>
+              <strong class="incanvas" style="position:absolute; top:20px; left:0px;">
+                STEP
+              </strong>
 
-        <h3 class="instruction-main" style="top: 70px; width: 300px;"> Material used:</h3>
+              <span class="circlebg" style="position:absolute; top:27px; left:55px;">
+                &nbsp;1&nbsp;
+              </span>
+              <br>
 
-        <p class="instruments">
-          Tensile testing machine, briquetter mold, water storage tank.
-        </p>
+              <p class="incanvas" style="position:absolute; top:55px; left:0px; font-size:15px;">
+                <strong>Objective:</strong>
+              </p>
 
-        <img class="instruments-img" id="instruments-img-1" src="images/png.png" alt="Instruments" />
-        <button class="next-exp" id="nextToStep1">Start</button>
-        
-        <script src="script.js"></script>
-      </div>
+              <p class="incanvas" style="position:absolute; top:85px; left:0px; font-size:14px;">
+                Standard Test Method for Tensile Strength of Hydraulic Cement Mortars
+              </p>
+              <br>
 
-    </div>
-  </main>
+              <p class="incanvas" style="position:absolute; top:115px; left:0px; font-size:15px;">
+                <strong>Apparatus used:</strong>
+              </p>
+
+              <p class="incanvas" style="position:absolute; top:145px; left:0px; font-size:14px;">
+                Testing Machine
+              </p>
+              <br>
+
+              <img
+                id="png"
+                class="board"
+                src="images/png.png"
+                alt="Testing Machine"
+                width="550"
+                height="350"
+                style="padding-left:4%; margin-top:140px;"
+              >
+              <br>
+
+              <input
+                type="button"
+                id="next"
+                value=" Start Here "
+                onclick="location.href='Step1.html'"
+                style="
+                  position:absolute;
+                  left:662px;
+                  top:498px;
+                  cursor:pointer;
+                  font-size:15px;
+                  background-color:#2150a0;
+                  color:#fff;
+                  padding:5px 10px;
+                  border:none;
+                "
+              >
+
+            </div>
+
+          </div>
+
+        </td>
+      </tr>
+    </table>
+
+  </div>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+
 </body>
-
 </html>
