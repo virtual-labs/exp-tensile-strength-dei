@@ -8,7 +8,7 @@
   };
 </script>
 
-## Introduction
+### Introduction
 
 **Tensile strength** is the ability of a cement mortar or hardened cementitious material to resist cracking or failure when subjected to tension. Although concrete and cement-based materials are primarily designed to withstand compressive loads, their tensile strength plays an important role in evaluating material cohesion, crack resistance, and overall structural performance. 
 
@@ -34,7 +34,6 @@ Based on the applied load at failure, the **ultimate tensile stress** is calcula
 $$\sigma_t = \frac{P_{\max}}{A}$$
 
 **Where:**
-**Where:**
 - **$\sigma_t$** = Tensile strength (MPa or N/mm²)
 - **$P_{\max}$** = Maximum load at failure (N)
 - **$A$** = Minimum cross-sectional area of briquette specimen (mm²)
@@ -56,13 +55,3 @@ This test provides valuable insight into mechanical properties and fracture char
   - Repair works
   - Tile adhesives
   - Prestressed or composite constructions
-
-## APPARATUS
-
-1. Weighing Devices
-2. Glass Graduates
-3. Briquette Moulds
-4. Trowel
-5. Storage Tank
-6. Rammer
-7. Testing Machine

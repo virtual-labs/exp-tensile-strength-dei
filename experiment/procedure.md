@@ -20,12 +20,10 @@
 5. The mortar mix is to be filled in briquette moulds. After that, cover the mould with a **plane glass or metal plate oiled with mineral oil**, and turn over the mould and plates (held together with the hands) rotating the mould about its longitudinal axis.  
 6. Remove the top plate and repeat the operation of **heaping, thumbing, and smoothing off**.  
 
----
 
 #### **2. Storage of Test Specimen**
 After moulding, all the test specimens are to be **immersed in lime water storage tank** for the respective test ages, except for those specimens which will be tested in **24 hours**.  
 
----
 
 #### **3. Determination of Tensile Strength**
 1. Tensile strength test is conducted on specimens at the following ages:
@@ -42,7 +40,6 @@ After moulding, all the test specimens are to be **immersed in lime water storag
 4. Place the specimen carefully, aligning it along clips, and start the testing machine to apply load continuously at the rate of **$3.5\,\mathrm{kN\,min^{-1}}$**.  
 5. Record the **total maximum load** at which the briquette fails.  
 
----
 
 #### **Observation**
 1. The **average of results** will be taken as tensile strength of that batch, except for any result which differs by more than **$15\%$** of the average value.  
