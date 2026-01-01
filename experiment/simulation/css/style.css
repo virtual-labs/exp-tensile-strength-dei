@@ -47,7 +47,7 @@ body {
     font-size: 20px;
     color: #FFF;
     text-align: center;
-    background: #2150a0;
+    background:  rgb(20, 117, 228);
 }
 
 #simscreen {
@@ -73,12 +73,11 @@ body {
     left: 0px;
     top: -27px;
     height: 40px;
-    font-size: 20px;
+    font-size: 24px;
     text-align: center;
     background-color: rgb(20, 117, 228);
-    font-family: verdana;
+    font-family: Arial, Helvetica, sans-serif;
     color: White;
-    text-transform: uppercase;
 }
 
 button {

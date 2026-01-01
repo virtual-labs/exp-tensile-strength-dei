@@ -8,7 +8,7 @@ document.getElementById("png2").onclick=function()
     document.getElementById("gif2").style.display="none";
     myTimeout = setTimeout(myGreeting, 8000);
     myTimeout1 = setTimeout(myGreeting1, 12000);
-    myTimeout2 = setTimeout(myGreeting2, 17000);
+    myTimeout2 = setTimeout(myGreeting2, 10000);
 }
 function myGreeting()
      {
