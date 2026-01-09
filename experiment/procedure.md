@@ -1,51 +1,105 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
-    }
-  };
-</script>
+#### **1. Weighing of the sample**
 
+• Click on trays containing sand to measure 3 part of sand sample.
 
+<img src="images/1.1.png" alt="procedure" width="500"><br>
 
-### **Procedure**
+• Click on tray containing cement to measure 1 part of cement sample.
 
-#### **1. Preparation of Specimen**
-1. The dry material is prepared by mixing **cement and sand in $1:3$ ratio** respectively by weight.  
-2. **Water** is to be added in certain percentage of weight of dry material to prepare cement mix. The percentage of water to be added is **$10\%$** for our test.  
-3. For moulding, the **briquette mould** must be placed on bottom plate.  
-4. A **thin layer of oil** must be applied to the mould before filling it with mortar mix.  
-5. The mortar mix is to be filled in briquette moulds. After that, cover the mould with a **plane glass or metal plate oiled with mineral oil**, and turn over the mould and plates (held together with the hands) rotating the mould about its longitudinal axis.  
-6. Remove the top plate and repeat the operation of **heaping, thumbing, and smoothing off**.  
+<img src="images/1.2.png" alt="procedure" width="500"><br>
 
+#### **2. Transferring the sample**
 
-#### **2. Storage of Test Specimen**
-After moulding, all the test specimens are to be **immersed in lime water storage tank** for the respective test ages, except for those specimens which will be tested in **24 hours**.  
+• Click on the tray containing sand and cement samples to transfer the material into the tub.
 
+<img src="images/2.1.png" alt="procedure" width="500"><br>
 
-#### **3. Determination of Tensile Strength**
-1. Tensile strength test is conducted on specimens at the following ages:
+#### **3. Measuring the water**
 
-| **Test Age** | **Permissible Tolerance** |
-|--------------|----------------------------|
-| **24 h**     | $\pm 1/2\,\mathrm{h}$     |
-| **3 days**   | $\pm 1\,\mathrm{h}$       |
-| **7 days**   | $\pm 3\,\mathrm{h}$       |
-| **28 days**  | $\pm 12\,\mathrm{h}$      |
+• Click on the empty beaker to put it on the weighing balance.
 
-2. During this period, specimens remain in the storage water tank.  
-3. Before testing the specimen, **wipe each briquette to a surface‑dry condition**, and remove any loose sand grains or incrustations from the surfaces.  
-4. Place the specimen carefully, aligning it along clips, and start the testing machine to apply load continuously at the rate of **$3.5\,\mathrm{kN\,min^{-1}}$**.  
-5. Record the **total maximum load** at which the briquette fails.  
+<img src="images/3.1.png" alt="procedure" width="500"><br>
 
+• Click on tare button to tare the weighing balance.
 
-#### **Observation**
-1. The **average of results** will be taken as tensile strength of that batch, except for any result which differs by more than **$15\%$** of the average value.  
-2. **Area of cross‑section of briquette**:  
-   
-   $$A = 1\,\mathrm{in}^2$$
+<img src="images/3.2.png" alt="procedure" width="500"><br>
 
-3. **Tensile strength formula**:  
-   $$\text{Tensile Strength} = \frac{\text{Fractured Load}}{\text{Cross‑Section Area}}$$
+• Click on the measuring cylinder and enter appropriate value of the amount of water to be added.
+
+<img src="images/3.4.png" alt="procedure" width="500"><br>
+
+#### **4. Mixing the water**
+
+• Click on the beaker to add water to the cement-sand sample and mix it.
+
+<img src="images/4.1.png" alt="procedure" width="500"><br>
+
+#### **5. Pouring the mortar into the moulds**
+
+• Click on the trowel to pour the mortar in the cube.
+
+<img src="images/5.1.png" alt="procedure" width="500"><br>
+
+#### **6. Compacting the mortar**
+
+• Click on the rammer to compact the mortar mix in the mould.
+
+<img src="images/6.1.png" alt="procedure" width="500"><br>
+
+#### **7. Pouring the mortar into the moulds**
+
+• Again, click on the trowel to pour the mortar in the cube mould.
+
+<img src="images/7.1.png" alt="procedure" width="500"><br>
+
+#### **8. Compacting the mortar**
+
+• Click on the rammer to compact it and obtain a smooth finish.
+
+<img src="images/8.1.png" alt="procedure" width="500"><br>
+
+#### **9. Opening the mould**
+
+• Click on the mould to open it and remove the cube
+
+<img src="images/9.1.png" alt="procedure" width="500"><br>
+
+#### **10. Writing the experiment date on the cubes**
+
+• Select the date of test to write it on the cubes.
+
+<img src="images/10.1.png" alt="procedure" width="500"><br>
+
+#### **11. Submerging the cubes into water tank**
+
+• Click on the cubes one by one to submerge them into the water tank.
+
+<img src="images/11.1.png" alt="procedure" width="500"><br>
+
+• Click on the first 3 moulds to take out them after 3 days.
+
+#### **12. Wiping the cubes**
+
+<img src="images/12.1.png" alt="procedure" width="500"><br>
+
+• Click on the cloth to wipe them using the cloth.
+
+<img src="images/12.2.png" alt="procedure" width="500"><br>
+
+#### **13. Testing the compression strength**
+
+• Click on the cubes to place them on the compression testing machine.
+
+<img src="images/13.1.png" alt="procedure" width="500"><br>
+
+• Click on the start button to apply the load and note the maximum load value.
+
+<img src="images/13.2.png" alt="procedure" width="500"><br>
+
+• Click on the remaining three mould to take out them from the tank after after 7 days.
+
+<img src="images/14.1.png" alt="procedure" width="500"><br>
+
+• Similarly, click on the remaining moulds to place them on the machine.
+
+• Again click on the start button to apply the load and note the maximum load value.
