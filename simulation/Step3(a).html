@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+<link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/Loading.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
+        rel="stylesheet">
+    <link rel="icon" href="favicon.ico">
+    <title>Civil Engineering - Virtual Lab</title>
+</head>
+
+<body>
+  
+
+     <body style="margin: 0; font-family: Arial; color: #000">
+  <!-- Wrapper for responsiveness -->
+  <div class="sim-wrapper">
+    <div class="simulation-container">
+    <body style="margin:0; font-family: Arial, Helvetica, sans-serif; color: #000;">
+        <table align="center">
+            <tr>
+                <td>
+                    <div id="simscreen">
+                        <div id="title">
+                            <h3>Tensile Strength test of Cement Mortar</h3>
+                        </div>
+                        <div class="middle-container" id="canvas1">
+
+                            <strong class="incanvas" style="position: absolute;  top: -4px; left: 0px; font-size: 18px;">Step</strong>
+
+                            <span class="circlebg"
+                                style="position: absolute; top: 4px; left: 50px; font-size: 18px;">&nbsp;3&nbsp;</span></br>
+
+                            <span style="position: absolute; left:80px; top: -14px; font-size: 18px;"><p class="fa fa-hand-o-right"
+                                    aria-hidden="true">Weigh the empty flask and then tare its weight. Now, take water
+                                    and the quantity of water will be 10% by weight of cement and sand
+                                    mix.</p>&nbsp;</span><br><br>
+
+                            <div class="sub-header" style=" position: relative; margin-top:  2rem;">
+                                <img id="png" class="board" src="images/S3.png" alt="picture" width="550" height="350"
+                                    style="position: absolute;  margin-left: 70px; margin-top: 40px;">
+                                <img id="png1" class="board" src="images/S3a.jpg" alt="picture" width="550" height="350"
+                                    style="position: absolute;  margin-left: 70px; margin-top: 40px;">
+                                <img id="play" class="board" src="images/transbox.png" alt="picture" width="50"
+                                    height="80" style="position: absolute; margin-left: 35rem ; margin-top: 47px;">
+                                <img id="play1" class="board" src="images/transbox.png" alt="picture" width="30"
+                                    height="150" style="position: absolute; margin-left: 35rem ; margin-top: 56px; ">
+                                <img id="play2" class="board" src="images/transbox.png" alt="picture" width="20"
+                                    height="10"
+                                    style="position: absolute; margin-left: 16rem ; margin-top: 359px; z-index: 1001;">
+                                <img id="gif" class="board" src="images/arrow left.gif" alt="picture" width="75"
+                                    height="30" style="position: absolute;  margin-left: 37rem ; margin-top: 65px;">
+                                <img id="gif1" class="board" src="images/S3.gif" alt="picture" width="550" height="350"
+                                    style="position: absolute;  margin-left: 70px ; margin-top: 40px; z-index: 1000; ">
+                                <img id="gif2" class="board" src="images/S3a.gif" alt="picture" width="550" height="350"
+                                    style="position: absolute;  margin-left: 70px ; margin-top: 40px;">
+                                <img id="gif3" class="board" src="images/arrow.gif" alt="picture" width="75" height="30"
+                                    style="position: absolute;  margin-left: 11rem ; margin-top: 345px; z-index: 1002;">
+                                <img id="gif4" class="board" src="images/arrow left.gif" alt="picture" width="75"
+                                    height="30" style="position: absolute;  margin-left: 36rem ; margin-top: 99px;">
+                                <input type="button" id="next"
+                                    style="position:absolute; left:662px; top:389px; cursor:pointer; font-size: 15px; background-color: rgb(20, 117, 228); padding-top: 5px; color: #FFF; padding-bottom: 5px; visibility: hidden;"
+                                    value="&nbsp;Next&nbsp;" onclick="parent.location='Step3(b).html'" />
+                                <span id="numoutnext"
+                                    style="position: absolute; left: 637px; top: 307px; color: red; font-size: 12px"></span>
+
+                            </div>
+
+                        </div>
+                        <div id="numpadbig" style="position: absolute;left:620px; top: 300px; visibility: inline;">
+                            <div style="padding-left: 0px; padding-right: 0px">
+                                <input type="text" id="quantity" size="7"
+                                    style="font-size: 20px; height: 30px;">&nbsp;gm<br><br>
+                            </div>
+                            <div style="background-color: #FFF;  height: 170px; width: 135px; border: 8px #000 solid;">
+
+                                <table style="position: absolute; left: 20px; top: 65px; text-align: center; ">
+                                    <tr style="">
+                                        <td>
+                                            <input type="button" value="1"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="2"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="3"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="">
+                                            <input type="Button" value="4"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="5"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="6"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                    </tr>
+                                    <tr style="">
+                                        <td>
+                                            <input type="Button" value="7"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="8"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="9"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                    </tr>
+                                    <tr style="">
+                                        <td>
+                                            <input type="Button" value="."
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF; padding-left: 10px; padding-right: 10px"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="0"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF"
+                                                onclick="document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                                        </td>
+                                        <td>
+                                            <input type="Button" value="c"
+                                                style="font-size:25px; border-radius: 5px; background-color: #FFF; padding-left: 7px; padding-right: 7px"
+                                                onclick="document.getElementById('quantity').value = ''">
+                                        </td>
+                                    </tr>
+
+                                </table>
+                            </div>
+                            <div style="padding-left: 28%; padding-right: 17%; padding-top: 5%">
+                                <input type="Button" value="Submit" onclick="tunnu()" style="font-size:15px; padding-top: 5px; padding-bottom: 5px; background-color: rgb(20, 117, 228); color: #FFF;">
+                            </div>
+                        </div>
+
+
+
+                    </div>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
+                    <div class="bottom-container">
+
+                    </div>
+
+    </body>
+
+    <script src="Script4.js"></script>
+
+</html>
