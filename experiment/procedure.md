@@ -5,9 +5,14 @@
 • Click on the trowel to take the sand and cement in the ratio 3:1 by weight to make standard mortar.
 <br><img src="procedure_images/1.1.png" alt="procedure" width="500"><br>
 
+• Click on Next to proceed.<br>
+
 #### Step 2: Preparation of sand and cement mixture. <br>
 
 • Click on the tray to pour it in the vessel and mix it.<br><img src="procedure_images/2.1.png" alt="procedure" width="500"><br>
+
+
+• Click on Next to proceed.<br>
 
 #### Step 3: Preparation of mortar mix<br>
 
@@ -20,6 +25,9 @@
 • Click on the beaker to add water to the cement-sand mix.<br><img src="procedure_images/3.5.png" alt="procedure" width="500"><br>
 
 • Click on the trowel to prepare the mortar mix. <br><img src="procedure_images/3.6.png" alt="procedure" width="500"><br>
+
+
+• Click on Next to proceed.<br>
 
 #### Step 4: Preparation of mould
 
@@ -39,6 +47,9 @@
 
 • Click on the mould to rotate the mould about its longitudnal axis.<br><img src="procedure_images/4.8.png" alt="procedure" width="500"><br>
 
+
+• Click on Next to proceed.<br> 
+
 #### Step 5: Preparation of briquette for testing
 
 • Enter the date of mould on the briquette and click on submit. Place all the test specimen in the Lime Water Tank for the respective ages.
@@ -48,6 +59,8 @@
 <br><img src="procedure_images/5.2.png" alt="procedure" width="500"><br>
 
 • Click on the cloth to wipe the briquettes to a surface dry condition.<br><img src="procedure_images/5.3.png" alt="procedure" width="500"><br>
+
+• Click on Next to proceed.<br>
 
 #### Step 6: Tensile strength testing
 
