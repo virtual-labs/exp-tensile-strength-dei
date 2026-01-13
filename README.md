@@ -22,4 +22,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Prateek Dubey | Student | Electrical Engineering | Dayalbagh Educational Institute  | prateek191226@dei.ac.in
 2 | Sarth Gupta | Student | Civil Engineering | Dayalbagh Educational Institute  | sarth191161@dei.ac.in
-2 | Shyamendra Singh | Student | Agricultural Engineering | Dayalbagh Educational Institute  | shyamendra.me@gmail.com
+3 | Shyamendra Singh | Student | Agricultural Engineering | Dayalbagh Educational Institute  | shyamendra.me@gmail.com
+4 | Vivank Tyagi | Student | Electrical Engineering | Dayalbagh Educational Institute  | tyagivivank1@gmail.com
