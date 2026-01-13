@@ -1,51 +1,72 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
-    }
-  };
-</script>
+#### Step 1: Preparation of sample<br>
+
+•	Collect the sand sample in the container and click on Next to proceed.<br><img src="procedure_images/1.png" alt="procedure" width="500"><br>
+
+• Click on the trowel to take the sand and cement in the ratio 3:1 by weight to make standard mortar.
+<br><img src="procedure_images/1.1.png" alt="procedure" width="500"><br>
+
+• Click on Next to proceed.<br>
+
+#### Step 2: Preparation of sand and cement mixture. <br>
+
+• Click on the tray to pour it in the vessel and mix it.<br><img src="procedure_images/2.1.png" alt="procedure" width="500"><br>
 
 
+• Click on Next to proceed.<br>
 
-### **Procedure**
+#### Step 3: Preparation of mortar mix<br>
 
-#### **1. Preparation of Specimen**
-1. The dry material is prepared by mixing **cement and sand in $1:3$ ratio** respectively by weight.  
-2. **Water** is to be added in certain percentage of weight of dry material to prepare cement mix. The percentage of water to be added is **$10\%$** for our test.  
-3. For moulding, the **briquette mould** must be placed on bottom plate.  
-4. A **thin layer of oil** must be applied to the mould before filling it with mortar mix.  
-5. The mortar mix is to be filled in briquette moulds. After that, cover the mould with a **plane glass or metal plate oiled with mineral oil**, and turn over the mould and plates (held together with the hands) rotating the mould about its longitudinal axis.  
-6. Remove the top plate and repeat the operation of **heaping, thumbing, and smoothing off**.  
+• Weigh the empty flask by clicking on the beaker.<br><img src="procedure_images/3.1.png" alt="procedure" width="500"><br>
 
+• Click on the tare button to set the weight to zero.<br><img src="procedure_images/3.2.png" alt="procedure" width="500"><br>
 
-#### **2. Storage of Test Specimen**
-After moulding, all the test specimens are to be **immersed in lime water storage tank** for the respective test ages, except for those specimens which will be tested in **24 hours**.  
+• Click on the measuring cylinder to measure the quantity of water that is 10% by weight of cement and sand mix.<br><img src="procedure_images/3.3.png" alt="procedure" width="500"><br>
 
+• Click on the beaker to add water to the cement-sand mix.<br><img src="procedure_images/3.5.png" alt="procedure" width="500"><br>
 
-#### **3. Determination of Tensile Strength**
-1. Tensile strength test is conducted on specimens at the following ages:
-
-| **Test Age** | **Permissible Tolerance** |
-|--------------|----------------------------|
-| **24 h**     | $\pm 1/2\,\mathrm{h}$     |
-| **3 days**   | $\pm 1\,\mathrm{h}$       |
-| **7 days**   | $\pm 3\,\mathrm{h}$       |
-| **28 days**  | $\pm 12\,\mathrm{h}$      |
-
-2. During this period, specimens remain in the storage water tank.  
-3. Before testing the specimen, **wipe each briquette to a surface‑dry condition**, and remove any loose sand grains or incrustations from the surfaces.  
-4. Place the specimen carefully, aligning it along clips, and start the testing machine to apply load continuously at the rate of **$3.5\,\mathrm{kN\,min^{-1}}$**.  
-5. Record the **total maximum load** at which the briquette fails.  
+• Click on the trowel to prepare the mortar mix. <br><img src="procedure_images/3.6.png" alt="procedure" width="500"><br>
 
 
-#### **Observation**
-1. The **average of results** will be taken as tensile strength of that batch, except for any result which differs by more than **$15\%$** of the average value.  
-2. **Area of cross‑section of briquette**:  
-   
-   $$A = 1\,\mathrm{in}^2$$
+• Click on Next to proceed.<br>
 
-3. **Tensile strength formula**:  
-   $$\text{Tensile Strength} = \frac{\text{Fractured Load}}{\text{Cross‑Section Area}}$$
+#### Step 4: Preparation of mould
+
+• Click on the briquette mould to place it on bottom plate.<br><img src="procedure_images/4.1.png" alt="procedure" width="500"><br>
+
+• Click on the brush to apply thin layer of oil.<br><img src="procedure_images/4.2.png" alt="procedure" width="500"><br>
+
+• Click on the trowel and fill the mortar mix in briquette moulds.<br><img src="procedure_images/4.3.png" alt="procedure" width="500"><br>
+
+• Click on the rammer to compact the mortar mix.<br><img src="procedure_images/4.4.png" alt="procedure" width="500"><br>
+
+• Click on the scrapping tool and remove the extra material from the top of the mould.<br><img src="procedure_images/4.5.png" alt="procedure" width="500"><br>
+
+• Click on the brush to apply mineral oil on the metal plate.<br><img src="procedure_images/4.6.png" alt="procedure" width="500"><br>
+
+• Click on the metal plate to cover the mould with it. <br><img src="procedure_images/4.7.png" alt="procedure" width="500"><br>
+
+• Click on the mould to rotate the mould about its longitudnal axis.<br><img src="procedure_images/4.8.png" alt="procedure" width="500"><br>
+
+
+• Click on Next to proceed.<br> 
+
+#### Step 5: Preparation of briquette for testing
+
+• Enter the date of mould on the briquette and click on submit. Place all the test specimen in the Lime Water Tank for the respective ages.
+<br><img src="procedure_images/5.1.png" alt="procedure" width="500"><br>
+
+• Take out three specimens from the Lime Water Tank one by one by clicking on them.
+<br><img src="procedure_images/5.2.png" alt="procedure" width="500"><br>
+
+• Click on the cloth to wipe the briquettes to a surface dry condition.<br><img src="procedure_images/5.3.png" alt="procedure" width="500"><br>
+
+• Click on Next to proceed.<br>
+
+#### Step 6: Tensile strength testing
+
+• Now , click on the sample to place them on the briquette tensile testing machine.<br><img src="procedure_images/6.1.png" alt="procedure" width="500"><br>
+
+• Click on the monitor to input the amount of strength to be used by the machine.<br><img src="procedure_images/6.2.png" alt="procedure" width="500"><br>
+
+• Similarly repeat the procedure with test specimen 2 and 3.<br>
+• Click on Show Result for the results.<br>

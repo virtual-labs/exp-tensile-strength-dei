@@ -66,6 +66,50 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+    {
+      "question": "What is the standard size of the cement mortar briquette specimen?",
+      "answers": {
+        "a": "40 mm × 40 mm × 160 mm",
+        "b": "50 mm × 50 mm × 200 mm",
+        "c": "30 mm × 30 mm × 120 mm",
+        "d": "60 mm × 60 mm × 240 mm"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the curing period required for cement mortar briquettes before testing?",
+      "answers": {
+        "a": "7 days",
+        "b": "14 days",
+        "c": "21 days",
+        "d": "28 days"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which surface of the specimen is subjected to tensile stress in this test?",
+      "answers": {
+        "a": "Top surface only",
+        "b": "Bottom surface only",
+        "c": "Middle cross-sectional area",
+        "d": "All surfaces equally"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of tensile strength commonly expressed as?",
+      "answers": {
+        "a": "N/mm²",
+        "b": "kN/m³",
+        "c": "N/m",
+        "d": "kg/cm"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
     }
   ]
 }
