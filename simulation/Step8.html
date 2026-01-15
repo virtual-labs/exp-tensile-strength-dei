@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/Loading.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.ico">
+    <title>Civil Engineering - Virtual Lab</title>
+  </head>
+  <body>
+     <body style="margin: 0; font-family: Arial; color: #000">
+  <!-- Wrapper for responsiveness -->
+  <div class="sim-wrapper">
+    <div class="simulation-container">
+   <body style="margin:0; font-family: Arial, Helvetica, sans-serif; color: #000;">
+    <table align="center">
+        <tr>
+            <td>
+              <div id="simscreen">
+                <div id="title"><h3>Tensile Strength Test of Cement</h3></div>
+                <div class="middle-container" id="canvas1" >
+                  
+                 <strong class="incanvas" style="position: absolute;  top: -4px; left: 0px; font-size: 18px;">Step</strong>
+      
+                  <span class="circlebg" style="position: absolute; top: 4px; left: 50px; font-size: 18px;">&nbsp;6&nbsp;</span></br>
+
+                  <span style="position: absolute; left:80px; top: -14px; font-size: 18px;"><p class="fa fa-hand-o-right" aria-hidden="true"></p>&nbsp;Now after three days three samples will be taken and there tensile strength is checked with the help briquette tensile testing machine.</span><br><br>
+
+                  <div class ="sub-header" style="position: relative; margin-top:  2rem;">
+                    
+                    <img id ="png" class="board" src="images/7.png" alt="picture" width="550" height="350"  style="position: absolute;  margin-left: 70px; margin-top: 40px;">
+                    <img id ="png2" class="board" src="images/transbox.png" alt="picture" width="50" height="20"  style="position: absolute; margin-left: 33rem ; margin-top: 86px;"> 
+                   
+                    <img id ="gif" class="board" src="images/7.gif" alt="picture" width="550" height="350"  style="position: absolute;  margin-left: 70px ; margin-top: 40px;">
+                    <img id ="gif3" class="board" src="images/output-onlinegiftools (30).gif" alt="picture" width="550" height="350"  style="position: absolute;  margin-left: 70px ; margin-top: 40px;">
+                    <img id ="gif2" class="board" src="images/arrow.gif" alt="picture" width="75" height="30"  style="position: absolute;  margin-left: 28rem ; margin-top: 80px;">
+                    <img id ="gif4" class="board" src="images/arrow left.gif" alt="picture" width="75" height="30"  style="position: absolute;  margin-left: 23rem ; margin-top: 238px;">
+                    <input type="button" id="next" style="position:absolute; left:662px; top:389px; cursor:pointer; font-size: 15px; background-color: rgb(20, 117, 228); padding-top: 5px; color: #FFF; padding-bottom: 5px" value="&nbsp;Next&nbsp;" onclick="parent.location='Step8(2).html'"/>
+                    <span id="numoutnext" style="position: absolute; left: 635px; top: 200px; color: rgb(20, 117, 228); font-size: 12px"></span>
+        
+
+                </div>
+                </div>
+              </div>
+              <div id="numpadbig" style="position:absolute; left:60rem; top: 315px; visibility: inline;">
+                <div style="padding-left: 0px; padding-right: 0px">
+                <input type="text" id="quantity" size="8" style="font-size: 20px; height: 30px;">N/mm²<br><br>
+                </div>
+                <div style="background-color: #FFF;  height: 190px; width: 135px; border: 8px #000 solid;">
+                
+                <table style="position: absolute; left: 20px; top: 65px; text-align: center; ">
+            <tr style="">
+                <td>
+                    <input type="button" value="1" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="2" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="3" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+            </tr>
+            <tr>
+                <td style="">
+                    <input type="Button" value="4" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="5" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="6" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+            </tr>
+            <tr style="">
+                <td>
+                    <input type="Button" value="7" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="8" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="9" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+            </tr>
+            <tr style="">
+                <td>
+                    <input type="Button" value="." style="font-size:25px; border-radius: 5px; background-color: #FFF; padding-left: 10px; padding-right: 10px" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="0" style="font-size:25px; border-radius: 5px; background-color: #FFF" onclick = "document.getElementById('quantity').value =document.getElementById('quantity').value+ this.value">
+                </td>
+                <td>
+                    <input type="Button" value="c" style="font-size:25px; border-radius: 5px; background-color: #FFF; padding-left: 7px; padding-right: 7px" onclick="document.getElementById('quantity').value = ''">
+                </td>
+            </tr>
+            
+            </table>
+            </div>
+            <div style="padding-left: 20%; padding-right: 20%; padding-top: 10%">
+                <input type="Button" value="Submit" onclick="tunnu()" style="font-size:15px; padding-top: 5px; padding-bottom: 5px; background-color: rgb(20, 117, 228); color: #FFF;">
+            </div>
+                
+            </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    
+    <div class="bottom-container">
+
+    </div>
+
+  </body>
+  
+  <script src="script2.js"></script>
+  
+</html>

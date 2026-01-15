@@ -1,0 +1,112 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The tensile strength of concrete after 7 days is ________ as compared to that of after 3 days.",
+      "answers": {
+        "a": "Less",
+        "b": "More",
+        "c": "Equal",
+        "d": "Can't say"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "With increasing age of specimen, its tensile strength-",
+      "answers": {
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remain Same",
+        "d": "Can't Say"
+      },
+      "correctAnswer": "a"
+
+    },
+    {
+      "question": "What is the standard cement-to-sand ratio (by weight) used for preparing mortar briquettes for the tensile strength test?",
+      "answers": {
+        "a": "1:2",
+        "b": "1:3",
+        "c": "1:4",
+        "d": "1:6"
+      },
+      "correctAnswer": "b"
+
+    },
+    {
+      "question": "The tensile strength of cement is approximately ________ of its compressive strength.",
+      "answers": {
+        "a": "1/2 to 1/4",
+        "b": "1/8 to 1/10",
+        "c": "Equal",
+        "d": "Double"
+      },
+      "correctAnswer": "b"
+
+    },
+    {
+      "question": "The standard specimen used for determining the tensile strength of cement mortar is known as a:",
+      "answers": {
+        "a": "Cube",
+        "b": "Cylinder",
+        "c": "Briquette",
+        "d": "Prism"
+      },
+      "correctAnswer": "c"
+
+    },
+    {
+      "question": "Which type of sand is strictly recommended for conducting the standard tensile strength test to ensure consistent results?",
+      "answers": {
+        "a": "River Sand",
+        "b": "Sea Sand",
+        "c": "Standard Ennore Sand",
+        "d": "Pit Sand"
+      },
+      "correctAnswer": "c"
+
+    },
+    {
+      "question": "What is the effect of water content on the tensile strength of cement mortar briquettes?",
+      "answers": {
+        "a": "No effect on tensile strength",
+        "b": "Excessive water decreases tensile strength",
+        "c": "Water always increases tensile strength",
+        "d": "Water content is irrelevant in the test"
+      },
+      "correctAnswer": "b"
+
+    },
+    {
+      "question": "In the tensile strength test of cement mortar, the specimen fails by:",
+      "answers": {
+        "a": "Shear failure",
+        "b": "Bending followed by tensile fracture",
+        "c": "Compression only",
+        "d": "Torsional failure"
+      },
+      "correctAnswer": "b"
+
+    },
+    {
+      "question": "The loading rate applied on the specimen in tensile strength test should be uniform to:",
+      "answers": {
+        "a": "Reduce cost of testing",
+        "b": "Ensure consistent and reliable results",
+        "c": "Complete the test quickly",
+        "d": "Minimize specimen preparation time"
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "How does the age of cement affect the tensile strength development in mortar briquettes?",
+      "answers": {
+        "a": "Fresh cement produces maximum tensile strength",
+        "b": "Older cement produces weaker specimens",
+        "c": "Age of cement does not affect tensile strength",
+        "d": "Tensile strength increases with the age of the specimen, not the cement"
+      },
+      "correctAnswer": "d"
+    }
+  ]
+}
