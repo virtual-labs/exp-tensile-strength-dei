@@ -1,7 +1,5 @@
 #### Step 1: Preparation of sample<br>
 
-•	Collect the sand sample in the container and click on Next to proceed.<br><img src="procedure_images/1.png" alt="procedure" width="500"><br>
-
 • Click on the trowel to take the sand and cement in the ratio 3:1 by weight to make standard mortar.
 <br><img src="procedure_images/1.1.png" alt="procedure" width="500"><br>
 
