@@ -81,8 +81,8 @@
       "question": "In the tensile strength test of cement mortar, the specimen fails by:",
       "answers": {
         "a": "Shear failure",
-        "b": "Bending followed by tensile fracture",
-        "c": "Compression only",
+        "b": "Tensile failure",
+        "c": "Compression failure",
         "d": "Torsional failure"
       },
       "correctAnswer": "b"
