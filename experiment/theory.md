@@ -18,7 +18,7 @@ Tensile strength is also essential in estimating the behavior of concrete under:
 - Flexure
 - Dynamic loading
 
-The property of tensile strength of concrete is not of much importance as usually concrete is subjected to compressive stresses. However, determination of tensile strength is important to have an idea about the cohesion between particles. Since tensile strength and compressive strength are closely related, the tensile strength test is used to supplement or estimate compressive behavior.
+Since tensile strength and compressive strength are closely related, the tensile strength test is used to supplement or estimate compressive behavior.
 
 ### Test Procedure and Mechanism
 
