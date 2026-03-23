@@ -1,0 +1,60 @@
+/* You CSS goes in here */
+/* ================================
+   RESPONSIVE SCALING — STEP 2 FINAL
+   ================================ */
+
+.sim-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* MOBILE */
+@media (max-width: 575px) {
+  #simscreen {
+    zoom: 40%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DEVICES */
+@media (min-width: 576px) and (max-width: 767px) {
+  #simscreen {
+    zoom: 65%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* TABLETS */
+@media (min-width: 768px) and (max-width: 991px) {
+  #simscreen {
+    zoom: 80%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DESKTOP */
+@media (min-width: 992px) and (max-width: 1199px) {
+  #simscreen {
+    zoom: 90%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* LANDSCAPE FIX */
+@media (max-width: 767px) and (orientation: landscape) {
+  #simscreen {
+    zoom: 55%;
+  }
+}
+
+/* SAFETY */
+body {
+  overflow-x: hidden;
+}
