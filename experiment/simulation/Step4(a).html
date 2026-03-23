@@ -37,8 +37,13 @@
                     <img id ="gif1" class="board" src="images/S5(b).gif" alt="picture" width="550" height="350"  style="position: absolute;  margin-left: 70px ; margin-top: 40px;">
                     <img id ="arr" class="board" src="images/arrow left.gif" alt="picture" width="75" height="30"  style="position: absolute;  margin-left: 38rem ; margin-top: 100px;">
                     <img id ="arr1" class="board" src="images/arrow left.gif" alt="picture" width="75" height="30"  style="position: absolute;  margin-left: 38rem ; margin-top: 89px;">
-                    <input type="button" id="next" style="position:absolute; left:662px; top:389px; cursor:pointer; font-size: 15px; background-color: rgb(20, 117, 228); padding-top: 5px; color: #FFF; padding-bottom: 5px; visibility: hidden;" value="&nbsp;Next&nbsp;" onclick="parent.location='Step4(b).html'"/>
+                    <input type="button" id="next" style="position:absolute; left:662px; top:389px; cursor:pointer; font-size: 15px; background-color: rgb(20, 117, 228); padding-top: 5px; color: #FFF; padding-bottom: 5px; visibility: hidden;" value="&nbsp;Next&nbsp;"/>
         
+                    <script>
+                      document.getElementById('next').addEventListener('click', function () {
+                        window.location.href = 'Step4(b).html';
+                      });
+                    </script>
                 </div>
                   
                 </div>

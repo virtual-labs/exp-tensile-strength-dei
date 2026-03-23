@@ -51,5 +51,11 @@ function tunnu()
         errorMsg.style.border = "2px solid red";
         errorMsg.style.borderRadius = "5px";
         errorMsg.innerHTML = "<span style='color: red; font-weight: bold; font-size: 18px;'>❌ Insert 3.5</span>";
+        
+        // Hide the error message after 2 seconds
+        setTimeout(function() {
+            errorMsg.innerHTML = "";
+            errorMsg.style.display = "none";
+        }, 2000);
     }
 }
