@@ -63,7 +63,12 @@
                                     height="30" style="position: absolute;  margin-left: 36rem ; margin-top: 99px;">
                                 <input type="button" id="next"
                                     style="position:absolute; left:662px; top:389px; cursor:pointer; font-size: 15px; background-color: rgb(20, 117, 228); padding-top: 5px; color: #FFF; padding-bottom: 5px; visibility: hidden;"
-                                    value="&nbsp;Next&nbsp;" onclick="parent.location='Step3(b).html'" />
+                                    value="&nbsp;Next&nbsp;" />
+                                <script>
+                                  document.getElementById('next').addEventListener('click', function () {
+                                    window.location.href = 'Step3(b).html';
+                                  });
+                                </script>
                                 <span id="numoutnext"
                                     style="position: absolute; left: 637px; top: 307px; color: red; font-size: 12px"></span>
 
